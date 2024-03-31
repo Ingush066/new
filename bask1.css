@@ -1,6 +1,6 @@
 body {
-    color:white;
-    background-image: url(https://www.funnyart.club/uploads/posts/2022-02/1645081070_1-www-funnyart-club-p-fon-knizhnie-polki-dlya-fotoshopa-krasivo-1.jpg);
+    background-image: url(WEB.png);
+    background-size: cover;
 }
 
 * {
@@ -8,7 +8,7 @@ body {
 }
 
 p[align=center] {
-    color: white;
+    color: green;
     font-size: 32px;
 }
 
@@ -17,9 +17,12 @@ p[align=center] {
     text-transform: uppercase;
 }
 
+li:nth-child(2n) {
+    color: red;
+}
 
-p {
-    font-style: italic;
+p + span {
+    font-family: Times, "Times New Roman", Georgia, serif;
     font-size: 18px;
     text-decoration-style: solid;
 }
