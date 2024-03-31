@@ -19,7 +19,7 @@ p[align=center] {
 
 
 p + span {
-    font-family: Times, "Times New Roman", Georgia, serif;
+    font-style: italic;
     font-size: 18px;
     text-decoration-style: solid;
 }
