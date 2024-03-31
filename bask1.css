@@ -3,9 +3,6 @@ body {
     background-size: cover;
 }
 
-* {
-    font-family: cursive;
-}
 
 p[align=center] {
     color: green;
