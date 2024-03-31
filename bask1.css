@@ -3,6 +3,10 @@ body {
     background-size: cover;
 }
 
+p {
+    font-style: normal;
+}
+
 
 p[align=center] {
     color: green;
