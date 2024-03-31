@@ -1,4 +1,51 @@
 body {
     color:white;
-    background-image: url(https://www.mgpu.ru/wp-content/uploads/2022/03/ae4bre.jpg);
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2023-01/1674285046_catherineasquithgallery-com-p-temno-serii-fon-dlya-saita-foto-140.jpg);
+}
+
+* {
+    font-family: cursive;
+}
+
+p[align=center] {
+    color: black;
+    font-size: 32px;
+}
+
+.span1 {
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+li {
+    font-size: 36px;
+
+p  {
+    font-style: normal;
+    font-size: 25px;
+    text-decoration-style: solid;
+}
+
+.css1 { 
+    list-style-type: disc;
+}
+
+#ul1 {
+    list-style-type: square;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.css1 > a {
+    text-decoration-style: dashed;
+}
+
+#ul1 .css1 {
+    font-weight: bolder;
 }
